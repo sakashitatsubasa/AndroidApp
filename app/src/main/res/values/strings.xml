@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidApp</string>
+    <string name="text">Yohei</string>
+    <string name="clickAction">Button was clicked!</string>
 </resources>
